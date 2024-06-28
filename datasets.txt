@@ -1,0 +1,15 @@
+Entrenamiento: 
+
+https://www.openslr.org/67/    TEDx Spanish Corpus
+
+Prueba:  
+
+20 audios de mujeres y 20 audios de hombres por cada acento
+
+https://www.openslr.org/75/    Audios con acento venezolano
+
+https://www.openslr.org/73/    Audios con acento peruano
+	
+https://www.openslr.org/71/    Audios con acento chileno
+
+https://www.openslr.org/72/    Audios con acento colombiano

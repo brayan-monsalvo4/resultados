@@ -1,0 +1,15 @@
+nombre del modelo: modelo_knn_spect
+
+precision: 0.775
+              precision    recall  f1-score   support
+
+      hombre       0.87      0.65      0.74        80
+       mujer       0.72      0.90      0.80        80
+
+    accuracy                           0.78       160
+   macro avg       0.79      0.78      0.77       160
+weighted avg       0.79      0.78      0.77       160
+
+[[52 28]
+ [ 8 72]]
+

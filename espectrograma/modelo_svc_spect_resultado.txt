@@ -1,0 +1,15 @@
+nombre del modelo: modelo_svc_spect
+
+precision: 0.96875
+              precision    recall  f1-score   support
+
+      hombre       0.94      1.00      0.97        80
+       mujer       1.00      0.94      0.97        80
+
+    accuracy                           0.97       160
+   macro avg       0.97      0.97      0.97       160
+weighted avg       0.97      0.97      0.97       160
+
+[[80  0]
+ [ 5 75]]
+

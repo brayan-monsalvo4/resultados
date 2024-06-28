@@ -1,0 +1,15 @@
+nombre del modelo: modelo_sgdc_spect
+
+precision: 0.90625
+              precision    recall  f1-score   support
+
+      hombre       0.84      1.00      0.91        80
+       mujer       1.00      0.81      0.90        80
+
+    accuracy                           0.91       160
+   macro avg       0.92      0.91      0.91       160
+weighted avg       0.92      0.91      0.91       160
+
+[[80  0]
+ [15 65]]
+

@@ -1,0 +1,15 @@
+nombre del modelo: modelo_perceptron
+
+precision: 0.65625
+              precision    recall  f1-score   support
+
+      hombre       0.62      0.81      0.70        80
+       mujer       0.73      0.50      0.59        80
+
+    accuracy                           0.66       160
+   macro avg       0.67      0.66      0.65       160
+weighted avg       0.67      0.66      0.65       160
+
+[[65 15]
+ [40 40]]
+
